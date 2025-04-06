@@ -1,4 +1,4 @@
-# 🧓 Elderly Wellness Assistant 🩺🤖  
+#  Elderly Wellness Assistant 
 ### A Smart Companion for Safer, Healthier Aging – Built with AI, Streamlit, and Compassion
 
 ---
@@ -88,17 +88,17 @@ Run the LLaMA model:
 - Smart Home Health Startups
 
 ### 🚀 Future Scope
-  - 🧠 Integrate real-time vitals from IoT sensors (ESP32, Raspberry Pi, etc.)
-  - 📱 Deploy on mobile/tablet via Streamlit cloud or PWA
-  - 📤 Add notifications (SMS/email) to caregivers on alert
-  - 🧍🏻‍♀️ Use pose estimation (OpenCV) to enhance fall detection
+  -  Integrate real-time vitals from IoT sensors (ESP32, Raspberry Pi, etc.)
+  -  Deploy on mobile/tablet via Streamlit cloud or PWA
+  -  Add notifications (SMS/email) to caregivers on alert
+  -  Use pose estimation (OpenCV) to enhance fall detection
 
 ### 🏆 Why This Project Stands Out
-  - ✅ Privacy-first: Offline-ready with local AI model
-  - 💰 Zero cost to scale for homes or rural care centers
-  - 💡 Multi-dimensional support: health, routine, safety, companionship
-  - 🧠 Hackathon-ready innovation — smart, impactful, and realistic
-  - ❤️ Empathy-driven design — built with purpose for those who need it most
+  -  Privacy-first: Offline-ready with local AI model
+  -  Zero cost to scale for homes or rural care centers
+  -  Multi-dimensional support: health, routine, safety, companionship
+  -  Hackathon-ready innovation — smart, impactful, and realistic
+  -  Empathy-driven design — built with purpose for those who need it most
 
 ### 👥 Team
 “Built with care by young engineers passionate about healthcare + technology.”
