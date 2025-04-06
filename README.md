@@ -60,7 +60,7 @@ This project addresses that challenge by fusing **health monitoring**, **routine
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/elderly-wellness-assistant.git
+   git clone https://github.com/RenukaK1404/Elderly_wellness_assistant.git
    cd elderly-wellness-assistant
    
 2. **Set Up Python Environment**
